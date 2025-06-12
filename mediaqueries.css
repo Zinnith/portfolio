@@ -57,7 +57,7 @@
         margin-bottom: 0;
     }
 
-    aricle{
+    article{
         font-size:1rem;
     }
     footer nav{
@@ -93,8 +93,8 @@
 
     .section_pic-container{
         width:auto;
-        height:46vh;
-        justify-content: center;
+        height:46vw;
+        justify-content:center;
     }
     
     .section_text_p2{
@@ -107,8 +107,5 @@
     .text-container{
         text-align:justify;
     }
-        
-
-
 }
 
